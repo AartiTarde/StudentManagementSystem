@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\aarti\\downloads\\studentmanagementsystem\\studentmanagementsystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\aarti\\downloads\\studentmanagementsystem\\studentmanagementsystem\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\aarti\\downloads\\studentmanagementsystem\\studentmanagementsystem\\services\\authservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\services\\authservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\aarti\\downloads\\studentmanagementsystem\\studentmanagementsystem\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\aarti\\downloads\\studentmanagementsystem\\studentmanagementsystem\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\aarti\\downloads\\studentmanagementsystem\\studentmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\aarti\\downloads\\studentmanagementsystem\\studentmanagementsystem\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\aarti\\downloads\\studentmanagementsystem\\studentmanagementsystem\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\aarti\\downloads\\studentmanagementsystem\\studentmanagementsystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\aarti\\downloads\\studentmanagementsystem\\studentmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\aarti\\downloads\\studentmanagementsystem\\studentmanagementsystem\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\aarti\\downloads\\studentmanagementsystem\\studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\aarti\\downloads\\studentmanagementsystem\\studentmanagementsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\aarti\\downloads\\studentmanagementsystem\\studentmanagementsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\aarti\\downloads\\studentmanagementsystem\\studentmanagementsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\aarti\\downloads\\studentmanagementsystem\\studentmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{619B055F-31D2-476D-8625-1876D9F384F3}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\appsettings.json",
+              "RelativeToolTip": "StudentManagementSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-09T07:11:25.491Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAowDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:09:51.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T12:25:13.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T07:06:28.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService .cs",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Services\\AuthService .cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Services\\AuthService .cs",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Services\\AuthService .cs",
+              "RelativeToolTip": "StudentManagementSystem\\Services\\AuthService .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:08:08.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Services\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T12:24:01.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Services\\StudentService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:40:11.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:26:28.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\DTOs\\StudentDto.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\DTOs\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\DTOs\\StudentDto.cs",
+              "RelativeToolTip": "StudentManagementSystem\\DTOs\\StudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T12:24:56.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "StudentManagementSystem\\DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:07:34.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:09:21.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\README.md",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\README.md",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\README.md",
+              "RelativeToolTip": "StudentManagementSystem\\README.md",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAswJYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-09T12:32:08.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T12:25:09.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:56:34.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:57:12.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\StudentManagementSystem\\appsettings.Development.json",
+              "RelativeToolTip": "StudentManagementSystem\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-09T12:24:03.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-09T08:13:38.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\aarti\\Downloads\\StudentManagementSystem\\SQLQuery2.sql",
+              "RelativeToolTip": "SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-09T07:39:32.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
